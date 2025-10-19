@@ -65,5 +65,5 @@ Achievement-Based Reward System
 👩‍💻 Developed By
 
 Akshaya Vaseekaran
-Kathuskan Thavaraja
+Kathuskan Thavarajah
 Ashrif ahmed
